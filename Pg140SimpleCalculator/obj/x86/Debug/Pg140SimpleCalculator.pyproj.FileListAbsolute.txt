@@ -1,0 +1,14 @@
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Pg140SimpleCalculator.exe.config
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Pg140SimpleCalculator.exe
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Pg140SimpleCalculator.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\IronPython.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\IronPython.Modules.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\IronPython.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\bin\Debug\IronPython.Modules.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\obj\x86\Debug\Pg140SimpleCalculator.pyprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\obj\x86\Debug\Pg140SimpleCalculator.MainForm.resources
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\obj\x86\Debug\Pg140SimpleCalculator.pyproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\programming-1\Pg140SimpleCalculator\obj\x86\Debug\Pg140SimpleCalculator.exe

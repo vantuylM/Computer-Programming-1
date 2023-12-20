@@ -1,0 +1,14 @@
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Pg153SalCalc.exe.config
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Pg153SalCalc.exe
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Pg153SalCalc.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\IronPython.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\IronPython.Modules.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\IronPython.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\bin\Debug\IronPython.Modules.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\obj\x86\Debug\Pg153SalCalc.pyprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\obj\x86\Debug\Pg153SalCalc.MainForm.resources
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\obj\x86\Debug\Pg153SalCalc.pyproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\programming-1\Pg153SalCalc\obj\x86\Debug\Pg153SalCalc.exe

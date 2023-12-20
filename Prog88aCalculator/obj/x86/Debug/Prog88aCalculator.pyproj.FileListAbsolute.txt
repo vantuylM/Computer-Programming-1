@@ -1,0 +1,14 @@
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\obj\x86\Debug\Prog88aCalculator.pyprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\obj\x86\Debug\Prog88aCalculator.MainForm.resources
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\obj\x86\Debug\Prog88aCalculator.pyproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Prog88aCalculator.exe.config
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Prog88aCalculator.exe
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Prog88aCalculator.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\IronPython.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\IronPython.Modules.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\IronPython.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\bin\Debug\IronPython.Modules.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Prog88aCalculator\obj\x86\Debug\Prog88aCalculator.exe

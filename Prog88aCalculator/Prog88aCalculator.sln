@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Prog88aCalculator", "Prog88aCalculator.pyproj", "{66698938-8EBB-4749-984D-A99EEB56E6C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66698938-8EBB-4749-984D-A99EEB56E6C6}.Debug|x86.Build.0 = Debug|x86
+		{66698938-8EBB-4749-984D-A99EEB56E6C6}.Debug|x86.ActiveCfg = Debug|x86
+		{66698938-8EBB-4749-984D-A99EEB56E6C6}.Release|x86.Build.0 = Release|x86
+		{66698938-8EBB-4749-984D-A99EEB56E6C6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

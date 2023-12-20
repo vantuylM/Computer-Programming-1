@@ -1,0 +1,12 @@
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\obj\x86\Debug\Prog58B.pyprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Prog58B.exe.config
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Prog58B.exe
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Prog58B.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\IronPython.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\IronPython.Modules.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\IronPython.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\bin\Debug\IronPython.Modules.xml
+C:\Users\vantuyl.m\Desktop\programming-1\Prog58B\obj\x86\Debug\Prog58B.exe
